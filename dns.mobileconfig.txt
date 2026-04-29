@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+
+"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<dict>
+
+<plist version="1.0">
+
+<key>PayloadContent</key>
+
+<array>
+
+<key>DNSSettings</key>
+
+<dict>
+
+<dict>
+
+<key>DNSProtocol</key>
+
+<key>ServerURL</key>
+
+<string>HTTPS</string>
+
+<string>https://ultralow.dns.nextdns.io/com.sensitouv.inject</string>
+
+</dict>
+
+<key>PayloadDisplayName</key>
+
+<string> SENSI 360HZ</string>
+
+<key>PayloadIdentifier</key>
+
+<string>11111111</string>
+
+<key>PayloadType</key>
+
+<string>com.apple.dnsSettings.managed</string>
+
+<key>PayloadUUID</key>
+
+<string>111111111</string>
+
+<key>PayloadVersion</key>
+
+</dict>
+
+<dict>
+
+<integer>1</integer>
+
+<key>DNSSettings</key>
+
+<dict>
+
+<key>DNSProtocol</key>
+
+<string>HTTPS</string>
+
+<key>ServerURL</key>
+
+<string>https://ultralow.dns.nextdns.io/com.fpsexp.inject.ipsx64</string>
+
+</dict> <key>PayloadDisplayName</key>
+
+<string>AIMLOCK V1</string>
+
+<key>PayloadIdentifier</key>
+
+<string>2222222</string>
+
+<key>PayloadType</key>
+
+<string>com.apple.dnsSettings.managed</string>
+
+<key>PayloadUUID</key>
+
+<string>2222222</string>
+
+<key>PayloadVersion</key>
+
+<integer>1</integer>
+
+</dict> <dict>
+
+<key>DNSSettings</key> <dict>
+
+<key>DNSProtocol</key>
+
+<string>HTTPS</string>
+
+<key>ServerURL</key>
+
+<string>https://ultralow.dns.nextdns.io/com.monaihd.inject</string>
+
+</dict>
+
+<key>PayloadDisplayName</key>
+
+<string>AIMLOCK V2</string>
+
+<key>PayloadIdentifier</key>
